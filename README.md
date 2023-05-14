@@ -1,6 +1,6 @@
 # dados_app
 
-A new Flutter project.
+¡Bienvenido a la Aplicación de Dados! Esta es una aplicación diseñada para simular la experiencia de lanzar dados de manera virtual. Ya sea que necesites un dado para jugar a juegos de mesa, tomar decisiones al azar o simplemente divertirte, esta aplicación es perfecta para ti.
 
 ## Getting Started
 
